@@ -8,7 +8,7 @@ export function About() {
           <div>
             <h2 className="text-base text-blue-600 font-semibold tracking-wide uppercase">About Us</h2>
             <p className="mt-2 text-3xl font-extrabold text-gray-900">
-              Pioneering Vehicle Detection Technology
+              Vehicle Detection and Classification 
             </p>
             <p className="mt-4 text-lg text-gray-500">
               At VehicleScan, we're passionate about revolutionizing the way vehicles are detected and analyzed. Our team of expert engineers and data scientists have developed cutting-edge technology that's changing the game in traffic management, parking systems, and security applications.
